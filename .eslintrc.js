@@ -46,5 +46,9 @@ module.exports = {
     // Enable Prettier for ESLint --fix, and disable rules that conflict with Prettier
     'prettier/@typescript-eslint',
     'plugin:prettier/recommended',
-  ]
+  ],
+
+  rules: {
+    '@typescript-eslint/camelcase': 'off'
+  }
 }
