@@ -10,7 +10,7 @@
   "types": "dist/index.d.ts",
   "license": "ISC",
   "dependencies": {
-    "ripple-lib": "^1.6.3-beta.1"
+    "ripple-lib": "^1.6.5"
   },
   "repository": {
     "type": "git",
